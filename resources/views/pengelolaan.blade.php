@@ -33,7 +33,7 @@
             <img src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/97/MTA-155151906/brd-03749_sepatu-sporty-sneakers-shoes-jn8803a_full01-7fb2fb22.jpg" alt="Product" class="rounded-lg w-20 h-20 object-cover shadow-sm">
             
             <div class="flex-1">
-                <h3 class="font-bold text-lg text-gray-800">Sporty Sneakers XXXXXXXXXXXXXXXX</h3>
+                <h3 class="font-bold text-lg text-gray-800">Flat Shoes Reika</h3>
                 <p class="text-base text-[#962A48]">Rp 250.000</p>
                 <p class="text-xs text-gray-500">⭐ 4.8 | 10K sold</p>
             </div>

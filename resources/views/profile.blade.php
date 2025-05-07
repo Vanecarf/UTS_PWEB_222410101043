@@ -43,7 +43,7 @@
         <!-- Product 1 -->
         <div class="bg-gray-100 p-6 rounded-lg shadow-md hover:shadow-xl transition-all transform hover:scale-105">
             <img src="https://im.berrybenka.com/assets/upload/product/zoom/227962_romeo-pacini-flat-shoes-100-maroon_maroon_YAFAB.jpg" alt="Flat Shoes" class="w-full h-48 object-cover rounded-lg mb-4">
-            <h4 class="text-xl font-semibold text-gray-800 mb-2">Flat Shoes XXXXXXXXXXXXXXXX</h4>
+            <h4 class="text-xl font-semibold text-gray-800 mb-2">Flat Shoes Ayaka</h4>
             <p class="text-lg text-[#962A48] mb-2">Rp 100.000</p>
             <div class="flex items-center mb-4">
                 <span class="text-yellow-400">⭐ 4.9</span> 
@@ -58,7 +58,7 @@
         <!-- Product 2 -->
         <div class="bg-gray-100 p-6 rounded-lg shadow-md hover:shadow-xl transition-all transform hover:scale-105">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQCJW1AWQx2TeJeEFADqQNUu0wDHobHxy4Fw&s" alt="Sporty Sneakers" class="w-full h-48 object-cover rounded-lg mb-4">
-            <h4 class="text-xl font-semibold text-gray-800 mb-2">Sporty Sneakers XXXXXXXXXXXXXXXX</h4>
+            <h4 class="text-xl font-semibold text-gray-800 mb-2">Heels Kumbang</h4>
             <p class="text-lg text-[#962A48] mb-2">Rp 250.000</p>
             <div class="flex items-center mb-4">
                 <span class="text-yellow-400">⭐ 4.8</span> 
@@ -73,7 +73,7 @@
         <!-- Product 3 -->
         <div class="bg-gray-100 p-6 rounded-lg shadow-md hover:shadow-xl transition-all transform hover:scale-105">
             <img src="https://cdn.thewirecutter.com/wp-content/media/2024/05/runningshoesforyou-2048px-2254.jpg?auto=webp&quality=75&width=1024" alt="Running Shoes" class="w-full h-48 object-cover rounded-lg mb-4">
-            <h4 class="text-xl font-semibold text-gray-800 mb-2">Running Shoes XXXXXXXXXXXXXXXX</h4>
+            <h4 class="text-xl font-semibold text-gray-800 mb-2">Flat Shoes Niyaka</h4>
             <p class="text-lg text-[#962A48] mb-2">Rp 150.000</p>
             <div class="flex items-center mb-4">
                 <span class="text-yellow-400">⭐ 4.7</span> 

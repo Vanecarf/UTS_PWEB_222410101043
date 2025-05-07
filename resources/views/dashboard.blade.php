@@ -68,7 +68,7 @@
                 <!-- Item 1 -->
                 <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
                     <img src="{{ asset('item1.jpg') }}" class="w-full h-32 object-cover rounded mb-2" alt="Item 1">
-                    <p class="text-sm font-semibold text-gray-800">Tas Kulit Premium</p>
+                    <p class="text-sm font-semibold text-gray-800">Sepatu Kulit Premium</p>
                     <p class="text-xs text-gray-500">Rp450.000</p>
                 </div>
 
@@ -82,7 +82,7 @@
                 <!-- Item 3 -->
                 <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
                     <img src="{{ asset('item3.jpg') }}" class="w-full h-32 object-cover rounded mb-2" alt="Item 3">
-                    <p class="text-sm font-semibold text-gray-800">Jaket Hoodie Pria</p>
+                    <p class="text-sm font-semibold text-gray-800">Heels Black Pink</p>
                     <p class="text-xs text-gray-500">Rp295.000</p>
                 </div>
             </div>
